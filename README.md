@@ -1,4 +1,4 @@
-# IPSA
+# Sanjay
 
 The most important part of articles and posts floating all over the internet, majorly the social media, is their immense influence on the masses. 
 Hence, it is highly important for such posts and articles to be unbiased so that they serve as a means for people to get aware of the facts and form opinions of their own, 
@@ -17,5 +17,3 @@ and can form opinions genuinely of their own.
 - Deployment on Google cloud platform
 - diffbot api
 - Flask
-
-A shot of presentation can be found [here](http://35.193.91.51:5001)
